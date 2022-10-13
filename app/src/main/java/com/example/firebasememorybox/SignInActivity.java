@@ -1,5 +1,4 @@
 package com.example.firebasememorybox;
-
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
@@ -26,7 +25,7 @@ public class SignInActivity extends AppCompatActivity  {
     public static FirebaseHelper firebaseHelper;
 
     // Use the same TAG all the time for Log statements. Feel free to change the value of TAG
-    public final String TAG = "Denna";
+    public final String TAG = "ketki";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

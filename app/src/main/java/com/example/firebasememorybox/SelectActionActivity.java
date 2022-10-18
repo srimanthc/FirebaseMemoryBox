@@ -16,7 +16,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class SelectActionActivity extends AppCompatActivity {
 
-    public final String TAG = "Denna";
+    public final String TAG = "Srimanth";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

@@ -13,6 +13,7 @@ public class AddMemoryActivity extends AppCompatActivity implements AdapterView.
     Spinner spinner;
     EditText memoryName, memoryDesc;
     String spinnerSelectedText = "none";
+    int memoryRatingNum;
 
 
 
